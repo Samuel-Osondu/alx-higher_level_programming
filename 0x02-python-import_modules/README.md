@@ -1,1 +1,1 @@
-This directory contains python import module programs
+0x02-python-import_modules
