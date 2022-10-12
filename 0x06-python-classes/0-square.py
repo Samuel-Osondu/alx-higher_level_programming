@@ -1,7 +1,7 @@
 #!/usr/bin/python3
-"""Module containing empty Rectangle ss"""
+"""defines class square """
 
 
 class Square:
-    """Empty Rectangle class"""
+    """ empty square """
     pass
